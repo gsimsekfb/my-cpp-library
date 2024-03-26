@@ -2,7 +2,8 @@
 
 
 ### todos:
-- code quality/analysis tools -> https://www.jetbrains.com/lp/devecosystem-2023/cpp/#cpp_guidelines_tools_two_years
+- https://github.com/redpanda-data/redpanda/  
+- https://github.com/audacity/audacity  
 
 
 ### Data from surveys:
