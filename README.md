@@ -1,12 +1,17 @@
 # my-cpp-library
 
 
-### todos:
+### Todos:
 - https://github.com/redpanda-data/redpanda/  
 - https://github.com/audacity/audacity  
 
 
-### Data from surveys:
+### C++ Support of Compilers:
+------------------------------------   
+https://clang.llvm.org/cxx_status.html
+
+
+### Surveys:
 ------------------------------------  
 #### isocpp 2023 
 What build tools do you use?  
